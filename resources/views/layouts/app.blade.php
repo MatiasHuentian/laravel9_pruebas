@@ -14,7 +14,7 @@
         {{-- <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet"> --}}
 
         <!-- Scripts -->
-        @vite(['resources/css/app.css', 'resources/js/app.js'])
+        @vite(['resources/css/app.css', 'resources/js/app.js' , 'resources/css/tailwind_v1.css'])
 
         <!-- Styles -->
         @livewireStyles
