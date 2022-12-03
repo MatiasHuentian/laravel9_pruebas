@@ -1,13 +1,13 @@
 @extends('adminlte::page')
 
-@section('title', 'Dashboard')
+@section('title', 'Carrera funcionaria')
 
 @section('content_header')
-    <h1>Dashboard</h1>
+    <h1>Carrera funcionaria</h1>
 @stop
 
 @section('content')
-    <p>Welcome to this beautiful admin panel.</p>
+    <p>Este es el panel de control de administrador dentro de carrera funcionaria.</p>
 @stop
 
 @section('css')
